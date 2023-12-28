@@ -1,5 +1,5 @@
 # Java-programs
 <br>
-Hello everyone,here you can find the java programs
+Hello programers,here you can find all types of java programs
 <br>
 Author - Alok Kumar Sahoo
